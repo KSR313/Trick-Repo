@@ -10,7 +10,7 @@ This is a repository for Tricks Python
 3.equal with trick 
 
 
-for example:
+# for example:
 
 -use if and for loop
 *****************************************
