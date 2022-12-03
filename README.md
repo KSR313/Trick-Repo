@@ -1,5 +1,5 @@
 # test-repo
-this is a test for compute number branch in private repo
+This is a repository for Tricks Python
 
-#i can compute number branch
-this project is  a test for enjoy
+# Tricks   
+this repo is for basic python for enjoy
